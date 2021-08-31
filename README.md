@@ -6,3 +6,5 @@ Who am I? I guess I'm so many things and so many people. But mainly I'm HERE to 
 
 GitHub is asking for a lot of commitment that, frankly, I'm not certain I'm ready to give. Perhaps I can commit in the future.
 
+So now I'm going to add this branch, merge it, then revert to an earlier commit.
+
